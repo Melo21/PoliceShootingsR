@@ -16,6 +16,6 @@ R Studio, Dataset is from Kaggle
 
 ### Findings
 ![Highest Rates Right at Home](https://github.com/Melo21/PoliceShootingsR/blob/master/PoliceStudy/Bargraph2.png)
-![California Police Shootings by Year](https://github.com/Melo21/PoliceShootingsR/blob/master/PoliceStudy/Bargraph21.png)
+![California Police Shootings by Year](https://github.com/Melo21/PoliceShootingsR/blob/master/PoliceStudy/Bargraph213.png)
 ![Change in CA shootings](https://github.com/Melo21/PoliceShootingsR/blob/master/PoliceStudy/Bargraph3.png)
 ![High level Profile](https://github.com/Melo21/PoliceShootingsR/blob/master/PoliceStudy/Boxplot.png)
