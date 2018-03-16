@@ -1,7 +1,5 @@
 library(ggplot2)
 library(dplyr)
-#library(tidyr)
-#library(plyr)
 library(lubridate)
 getwd()
 df <- read.csv(file="/Users/melodywong/Desktop/policekillingsUS.csv", header=TRUE, sep=",")
